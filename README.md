@@ -1,7 +1,7 @@
 # War-On-Twitter
 
 In order to run this game you will need to install ncurses.
-Once Ncurses is installed - compile with: g++ WarOnTwitter.cpp -lncurses
+Once Ncurses is installed - compile with: g++ Game.cpp -lncurses
 
 
 
